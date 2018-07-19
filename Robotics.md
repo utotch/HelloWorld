@@ -34,3 +34,7 @@ we have to use “--set-upstream” or “-u” to create remote branch and merg
     $ git push --set-upstream origin pullreq-practice-blanch1
 
 After second time, we don’t need to use “-u”
+
+## add pull request
+
+edit pull request at github site
